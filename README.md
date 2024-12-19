@@ -1,0 +1,1 @@
+This repository demonstrates a common syntax error in Tcl's `if` statement. The incorrect code lacks a `then` clause, leading to a syntax error. The solution shows the correct syntax.
